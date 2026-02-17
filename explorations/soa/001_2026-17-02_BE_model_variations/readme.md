@@ -15,3 +15,7 @@ In this variation, instead of negating sigmoid, we add sigmoid and calculate the
 3. **BE_V3**:
 
 In this variation, instead of shifting the curve upwards when it gets negative values, we clip it, so all negative values become zero.
+
+## Conclusion
+
+Remove the $#eta_{relax}$, a.k.a use BE code here, do not use other variations.
