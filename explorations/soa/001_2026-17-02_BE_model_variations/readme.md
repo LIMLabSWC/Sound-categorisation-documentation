@@ -1,3 +1,5 @@
+# BE Variations
+
 There are 3 variations of BE model. You can find code, psychometrics of parameter sweep, and the notebook for the parameter sweep here :
 
 3 variations:
