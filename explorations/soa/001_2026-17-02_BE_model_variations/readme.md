@@ -18,4 +18,4 @@ In this variation, instead of shifting the curve upwards when it gets negative v
 
 ## Conclusion
 
-Remove the $eta_{relax}$, a.k.a use BE code here, do not use other variations.
+Remove the $\eta_{relax}$, a.k.a use BE code here, do not use other variations.
