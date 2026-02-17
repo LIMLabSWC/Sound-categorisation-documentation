@@ -12,4 +12,4 @@ So we are able to derive $f(x)$, which means a BE equivalent for our SC model at
 
 ## Conclusion
 
-Since $P(B|s)$ is not a monotone non-decreasing function, it can not be CDF of any function (like $f(x)$), because it gives $f(x)<0$ values. So we can not extract a BE equivalent for SC model, so SC model's behaviour can not be replicated with a BE model.
+Since $P(B|s)$ is not a monotone non-decreasing function, it can not be CDF of any function (like $f(x)$ ), because it gives $f(x)<0$ values. So we can not extract a BE equivalent for SC model, so SC model's behaviour can not be replicated with a BE model.
