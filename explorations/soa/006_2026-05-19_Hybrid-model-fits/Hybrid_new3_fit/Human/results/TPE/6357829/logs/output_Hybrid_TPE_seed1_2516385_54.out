@@ -1,0 +1,14 @@
+  ✱ Running Optuna for PID 6357829, Seed 1, Sampler: TPE...
+  ✱ Running FULL DATA FIT...
+
+--- Starting Full Dataset Optimization ---
+Using TPE Sampler...
+Optimization failed: ABNORMAL_TERMINATION_IN_LNSRCH
+
+Optimization Complete!
+Empirical Lapse Rates: lambda_A=0.0046, lambda_B=0.0000
+Best Params: {'sigma_noise': 0.11813946833869789, 'A_repulsion': 0.17333064297878548, 'gamma': 0.7497477340139621, 'sigma_update': 0.11103547354004846, 'eta_learning': 0.04929017573303962, 'sigma_boundary': 6.6374650918036995, 'alpha': 0.11975981076884142}
+Final Minimum Error: 0.0046
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_new3_fit/Human/results/TPE/6357829/results_pid_6357829_seed_1_TPE.pkl
+  ✔ Processing completed for Participant ID 6357829, Seed 1.
+run_pid_cv executed in 505.50 seconds.

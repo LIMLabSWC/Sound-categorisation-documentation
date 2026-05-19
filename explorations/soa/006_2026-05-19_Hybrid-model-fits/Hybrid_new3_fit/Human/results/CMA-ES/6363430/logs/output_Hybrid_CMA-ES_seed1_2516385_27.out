@@ -1,0 +1,13 @@
+  ✱ Running Optuna for PID 6363430, Seed 1, Sampler: CMA-ES...
+  ✱ Running FULL DATA FIT...
+
+--- Starting Full Dataset Optimization ---
+Using CMA-ES Sampler...
+
+Optimization Complete!
+Empirical Lapse Rates: lambda_A=0.0000, lambda_B=0.0044
+Best Params: {'sigma_noise': 0.08768929444520883, 'A_repulsion': 0.3051795834431586, 'gamma': 0.41016812064141617, 'sigma_update': 0.23252054793001392, 'eta_learning': 0.014364583584213105, 'sigma_boundary': 6.8338063670107445, 'alpha': 0.5155126209301814}
+Final Minimum Error: 0.0100
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_new3_fit/Human/results/CMA-ES/6363430/results_pid_6363430_seed_1_CMA-ES.pkl
+  ✔ Processing completed for Participant ID 6363430, Seed 1.
+run_pid_cv executed in 572.49 seconds.

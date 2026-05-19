@@ -1,0 +1,13 @@
+  ✱ Running Optuna for PID 6363349, Seed 1, Sampler: TPE...
+  ✱ Running FULL DATA FIT...
+
+--- Starting Full Dataset Optimization ---
+Using TPE Sampler...
+
+Optimization Complete!
+Empirical Lapse Rates: lambda_A=0.0526, lambda_B=0.0678
+Best Params: {'sigma_noise': 0.1470957109751576, 'A_repulsion': 0.29478060708360354, 'gamma': 0.8243303235412637, 'sigma_update': 0.4430460041035027, 'eta_learning': 0.3948392701011247, 'sigma_boundary': 4.325999359350475, 'alpha': 0.9648337205797759}
+Final Minimum Error: 0.0160
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_new3_fit/Human/results/TPE/6363349/results_pid_6363349_seed_1_TPE.pkl
+  ✔ Processing completed for Participant ID 6363349, Seed 1.
+run_pid_cv executed in 600.65 seconds.
