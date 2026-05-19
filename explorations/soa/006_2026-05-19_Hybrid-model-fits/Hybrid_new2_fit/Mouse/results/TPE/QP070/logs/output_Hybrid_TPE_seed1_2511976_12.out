@@ -1,0 +1,13 @@
+  ✱ Running Optuna for PID QP070, Seed 1, Sampler: TPE...
+  ✱ Running FULL DATA FIT...
+
+--- Starting Full Dataset Optimization ---
+Using TPE Sampler...
+
+Optimization Complete!
+Empirical Lapse Rates: lambda_A=0.0655, lambda_B=0.1174
+Best Params: {'sigma_noise': 0.10548374172290235, 'A_repulsion': 0.03992470650061458, 'gamma': 0.6398753363022546, 'sigma_update': 0.09728915889570261, 'eta_learning': 0.10959336549926474, 'sigma_boundary': 8.038562150585317, 'alpha': 0.043985912600411}
+Final Minimum Error: 0.0115
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_new2_fit/Mouse/results/TPE/QP070/results_pid_QP070_seed_1_TPE.pkl
+  ✔ Processing completed for Participant ID QP070, Seed 1.
+run_pid_cv executed in 5722.69 seconds.
