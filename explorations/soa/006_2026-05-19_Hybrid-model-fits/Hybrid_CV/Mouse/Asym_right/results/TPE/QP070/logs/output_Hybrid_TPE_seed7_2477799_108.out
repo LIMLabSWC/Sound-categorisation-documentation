@@ -1,0 +1,19 @@
+  ✱ Running Optuna for PID QP070, Seed 7, Sampler: TPE...
+  ✱ Running 2-FOLD CV...
+
+--- Starting Fold 1/2 ---
+Empirical Lapse Rates: lambda_A=0.0455, lambda_B=0.1206
+Best Params for Fold 1: {'sigma_noise': 0.2022551905038925, 'A_repulsion': 0.09390055326065747, 'gamma': 0.8845274365615735, 'sigma_update': 0.34728582783142703, 'eta_learning': 1.1478838307592505, 'sigma_boundary': 8.215094061047042, 'alpha': 0.673295627894513}
+Training Error for Fold 1: 0.0222
+Test Error for Fold 1: 0.0558
+
+
+--- Starting Fold 2/2 ---
+Empirical Lapse Rates: lambda_A=0.0475, lambda_B=0.1151
+Best Params for Fold 2: {'sigma_noise': 0.19148675917252098, 'A_repulsion': 0.055574261840759705, 'gamma': 0.9760177346066524, 'sigma_update': 0.3329891219810683, 'eta_learning': 2.2725553078899248, 'sigma_boundary': 4.0387425443079445, 'alpha': 0.678653714449343}
+Training Error for Fold 2: 0.0476
+Test Error for Fold 2: 0.0195
+
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_CV/Mouse/Asym_right/results/TPE/QP070/results_pid_QP070_seed_7_TPE.pkl
+  ✔ Processing completed for Participant ID QP070, Seed 7.
+run_pid_cv executed in 16614.97 seconds.

@@ -1,0 +1,19 @@
+  ✱ Running Optuna for PID QP0121, Seed 5, Sampler: TPE...
+  ✱ Running 2-FOLD CV...
+
+--- Starting Fold 1/2 ---
+Empirical Lapse Rates: lambda_A=0.0000, lambda_B=0.0000
+Best Params for Fold 1: {'sigma_noise': 0.058915200029332315, 'A_repulsion': 0.05234956814197088, 'gamma': 0.21742078228438147, 'sigma_update': 0.10329312399999922, 'eta_learning': 0.4957139645772119, 'sigma_boundary': 6.6797798364809555, 'alpha': 0.7547149862949227}
+Training Error for Fold 1: 0.4979
+Test Error for Fold 1: 0.3087
+
+
+--- Starting Fold 2/2 ---
+Empirical Lapse Rates: lambda_A=0.0008, lambda_B=0.0219
+Best Params for Fold 2: {'sigma_noise': 0.25506533158194233, 'A_repulsion': 0.026304908251303077, 'gamma': 0.7909956137145618, 'sigma_update': 0.44053200631554923, 'eta_learning': 1.1309592268701656, 'sigma_boundary': 4.452806889632655, 'alpha': 0.8826548477272766}
+Training Error for Fold 2: 0.1109
+Test Error for Fold 2: 0.9014
+
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_CV/Mouse/Asym_right/results/TPE/QP0121/results_pid_QP0121_seed_5_TPE.pkl
+  ✔ Processing completed for Participant ID QP0121, Seed 5.
+run_pid_cv executed in 2365.33 seconds.

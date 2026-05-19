@@ -1,0 +1,20 @@
+  ✱ Running Optuna for PID QP0121, Seed 3, Sampler: CMA-ES...
+  ✱ Running 2-FOLD CV...
+
+--- Starting Fold 1/2 ---
+Optimization failed: ABNORMAL_TERMINATION_IN_LNSRCH
+Empirical Lapse Rates: lambda_A=0.0000, lambda_B=0.0000
+Best Params for Fold 1: {'sigma_noise': 0.23534345160040088, 'A_repulsion': 0.12043125029214358, 'gamma': 0.4074434739054249, 'sigma_update': 0.11618735725724554, 'eta_learning': 1.2570010156913827, 'sigma_boundary': 1.2258561876370133, 'alpha': 0.4271785374606285}
+Training Error for Fold 1: 0.2851
+Test Error for Fold 1: 0.3123
+
+
+--- Starting Fold 2/2 ---
+Empirical Lapse Rates: lambda_A=0.0000, lambda_B=0.0443
+Best Params for Fold 2: {'sigma_noise': 0.22709733465509901, 'A_repulsion': 0.10295214537367696, 'gamma': 0.7961980262499572, 'sigma_update': 0.05457251431555849, 'eta_learning': 1.5949985435758167, 'sigma_boundary': 5.943862596780702, 'alpha': 0.5035512806275171}
+Training Error for Fold 2: 0.1370
+Test Error for Fold 2: 0.7069
+
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_CV/Mouse/Asym_right/results/CMA-ES/QP0121/results_pid_QP0121_seed_3_CMA-ES.pkl
+  ✔ Processing completed for Participant ID QP0121, Seed 3.
+run_pid_cv executed in 1946.54 seconds.

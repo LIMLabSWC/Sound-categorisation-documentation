@@ -1,0 +1,19 @@
+  ✱ Running Optuna for PID QP070, Seed 7, Sampler: CMA-ES...
+  ✱ Running 2-FOLD CV...
+
+--- Starting Fold 1/2 ---
+Empirical Lapse Rates: lambda_A=0.0621, lambda_B=0.0758
+Best Params for Fold 1: {'sigma_noise': 0.22861200532894665, 'A_repulsion': 0.20047946747359743, 'gamma': 0.9187220965123966, 'sigma_update': 0.1745670147635173, 'eta_learning': 1.8416142698188644, 'sigma_boundary': 4.523997056637441, 'alpha': 0.7067860061169944}
+Training Error for Fold 1: 0.0822
+Test Error for Fold 1: 0.1194
+
+
+--- Starting Fold 2/2 ---
+Empirical Lapse Rates: lambda_A=0.0950, lambda_B=0.0869
+Best Params for Fold 2: {'sigma_noise': 0.19686866678972342, 'A_repulsion': 0.2676830986760225, 'gamma': 0.618655801050859, 'sigma_update': 0.2585099524587452, 'eta_learning': 1.686093392120796, 'sigma_boundary': 5.979527504752584, 'alpha': 0.6961249000832311}
+Training Error for Fold 2: 0.1078
+Test Error for Fold 2: 0.1197
+
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_CV/Mouse/Asym_left/results/CMA-ES/QP070/results_pid_QP070_seed_7_CMA-ES.pkl
+  ✔ Processing completed for Participant ID QP070, Seed 7.
+run_pid_cv executed in 9281.46 seconds.
