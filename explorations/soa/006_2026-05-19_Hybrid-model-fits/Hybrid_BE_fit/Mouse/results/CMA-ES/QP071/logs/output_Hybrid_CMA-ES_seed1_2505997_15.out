@@ -1,0 +1,13 @@
+  ✱ Running Optuna for PID QP071, Seed 1, Sampler: CMA-ES...
+  ✱ Running FULL DATA FIT...
+
+--- Starting Full Dataset Optimization ---
+Using CMA-ES Sampler...
+
+Optimization Complete!
+Empirical Lapse Rates: lambda_A=0.0815, lambda_B=0.0129
+Best Params: {'sigma_noise': 0.18075483420451632, 'A_repulsion': 0.1823927132045775, 'gamma': 0.724646267573705, 'sigma_update': 0.6882940229480261, 'eta_learning': 0.0506355451612081, 'sigma_boundary': 6.733621440338636, 'alpha': 0.0}
+Final Minimum Error: 0.0191
+  ✔ Results saved to /nfs/nhome/live/apourdehghan/Hybrid_BE_fit/Mouse/results/CMA-ES/QP071/results_pid_QP071_seed_1_CMA-ES.pkl
+  ✔ Processing completed for Participant ID QP071, Seed 1.
+run_pid_cv executed in 10228.10 seconds.
