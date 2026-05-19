@@ -1,0 +1,54 @@
+2026-03-18 04:04:33,830 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-18 04:04:36,995 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-18 042026-03-18 04:04:43,387 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-18 04:04:44,050 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+:04:44,051 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-18 04:25:30,875 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-18 04:25:32,496 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-18 04:25:32,824 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-18 04:26:04,921 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-18 04:26:06,459 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-18 04:26:06,736 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-18 05:01:37,652 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-18 05:01:38,934 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-18 05:01:39,147 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-18 22:12:55,407 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-18 22:12:56,661 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-18 22:12:56,897 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:23:02,511 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:23:06,062 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 022026-03-19 02:23:06,065 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:23:06,510 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:30:25,923 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:30:27,793 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:30:28,116 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:37:21,660 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:37:23,515 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:37:23,795 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:44:34,594 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:44:36,550 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:44:36,852 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:49:10,938 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:49:12,381 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:49:12,632 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:49:22,808 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:49:24,250 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:49:24,521 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:52:45,995 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:52:47,369 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:52:47,637 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 02:53:59,100 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 02:54:01,183 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 02:54:01,462 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 11:47:41,914 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 11:47:41,914 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 11:47:43,398 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 112026-03-19 11:47:46,583 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 11:47:46,583 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 11:47:46,583 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 11:47:47,057 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 11:47:47,057 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 11:47:47,057 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
+2026-03-19 15:12:07,943 | WARNING | Hybrid_hpc_utils:16 | 🔍 Logging initialized in hpc_utils.py
+2026-03-19 15:12:17,186 | WARNING | Fitter:20 | 🔍 Logging initialized in Fitter.py
+2026-03-19 15:12:18,110 | WARNING | Gradient_free_Opt:17 | 🔍 Logging initialized in Gradient_free_Opt.py
