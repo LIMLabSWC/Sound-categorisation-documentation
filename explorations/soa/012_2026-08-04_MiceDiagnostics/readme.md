@@ -6,5 +6,5 @@
 
 - **mice_cv_Old_Error.sh**: Regular Hybrid with old loss function.
 
-- **mice_cv_Old_Error.sh**: Hybrid model with old loss function and with Old BE model, including `eta_relax`.
+- **mice_cv_Old_BE_Error.sh**: Hybrid model with old loss function and with Old BE model, including `eta_relax`.
 
